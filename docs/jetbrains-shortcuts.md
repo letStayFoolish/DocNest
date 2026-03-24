@@ -2,7 +2,7 @@
 title: JetBrains IDE Shortcuts
 description: The keyboard shortcuts I use daily in JetBrains IDEs — navigation, refactoring, and code editing.
 tags: [jetbrains, shortcuts, productivity, ide]
-category: Reference
+category: JetBrains IDE
 date: 2026-03-24
 ---
 

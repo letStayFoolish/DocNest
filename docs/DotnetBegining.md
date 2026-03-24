@@ -2,7 +2,7 @@
 title: .NET + Dapper API Architecture
 description: The role of each layer in a .NET 9 Web API built with Dapper — Controllers, Services, Repositories, Models, Entities, and Helpers.
 tags: [dotnet, dapper, architecture, api, layers]
-category: Reference
+category: Dotnet
 date: 2026-03-24
 ---
 

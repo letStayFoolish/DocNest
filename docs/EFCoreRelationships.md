@@ -2,7 +2,7 @@
 title: EF Core Relationships
 description: How to configure One-to-One, One-to-Many, and Many-to-Many relationships using Fluent API — with common mistakes and cascade delete rules.
 tags: [efcore, dotnet, database, relationships, fluent-api]
-category: Reference
+category: EFCore
 date: 2026-03-24
 ---
 

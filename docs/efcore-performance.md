@@ -2,7 +2,7 @@
 title: EF Core Performance Mistakes
 description: Five common Entity Framework Core mistakes that silently kill performance — and how to fix each one.
 tags: [efcore, dotnet, performance, database, sql]
-category: Reference
+category: EFCore
 date: 2026-03-24
 ---
 

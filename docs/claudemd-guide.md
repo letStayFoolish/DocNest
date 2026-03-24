@@ -2,7 +2,7 @@
 title: CLAUDE.md Quick Reference & Template
 description: Checklist, full .NET template, and rules for what to include (and avoid) in a CLAUDE.md file.
 tags: [claude, ai, dotnet, workflow, best-practices]
-category: Reference
+category: Claude
 date: 2026-03-24
 ---
 
