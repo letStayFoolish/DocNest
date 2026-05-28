@@ -1,3 +1,16 @@
+---
+title: "10 .NET 10 API Anti-Patterns That Break Production"
+description: "Not all anti-patterns are equal — some crash production at 2 AM, others slow your sprint by 5%. A severity-ranked guide to the ten most dangerous .NET 10 API mistakes and how to fix them."
+tags:
+  - dotnet
+  - csharp
+  - api
+  - performance
+  - architecture
+category: "Dotnet"
+date: "2026-05-28"
+---
+
 # 10 .NET 10 API Anti-Patterns That Break Production
 
 > Most "anti-pattern" lists treat every bad practice the same. That is wrong.
