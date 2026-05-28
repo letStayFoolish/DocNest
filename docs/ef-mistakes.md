@@ -1,3 +1,16 @@
+---
+title: "10 EF Core Performance Mistakes (and How to Fix Them) in .NET 10"
+description: "Ten EF Core performance patterns that compile and pass tests but degrade under production load — with concise, copy-paste fixes for each one."
+tags:
+  - efcore
+  - dotnet
+  - performance
+  - csharp
+  - database
+category: "Dotnet"
+date: "2026-05-28"
+---
+
 # 10 EF Core Performance Mistakes (and How to Fix Them) in .NET 10
 
 _TL;DR. The 10 EF Core performance mistakes that ship to production: (1) N+1 queries, (2) returning full entities instead of projections, (3) forgetting AsNoTracking on read-only queries, (4) leaving lazy loading on in production, (5) cartesian explosion from multiple Include calls, (6) filtering after materialization with .ToList() before .Where(), (7) loading entities just to update or delete them in bulk, (8) no pagination on list endpoints, (9) missing database indexes on filtered or joined columns, and (10) not using compiled queries on hot paths. Each one is fixable in under 10 lines of code. Together, they routinely turn 4-second endpoints into 80-millisecond endpoints._
